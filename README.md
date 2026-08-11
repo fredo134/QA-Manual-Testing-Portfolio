@@ -1,5 +1,3 @@
-# QA-Manual-Testing-Portfolio
-
 # Imoh Effiong | Software Quality Assurance Portfolio
 
 Welcome! This repository contains my hands-on Quality Assurance (QA) projects, including test plans, test cases, bug reports, API tests, and automated test scripts.

@@ -12,4 +12,4 @@ This folder contains automated API test suites, Postman collections, environment
 
 ---
 
-*Status: Active Development (Day 1 Setup Complete)*
+*Status: Active Development *

@@ -10,7 +10,6 @@ Welcome to my QA Manual Testing portfolio repository! This project showcases end
 - 🐛 **Logged Issues & Defects:** [GitHub Issues Tracker](../../issues)
 - 📊 **Test Summary & Metrics:** [`Manual_testing/TEST_SUMMARY.md`](./Manual_testing/TEST_SUMMARY.md)
 
----
 
 ## 🛠 Skills & Tools Applied
 

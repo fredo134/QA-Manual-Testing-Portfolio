@@ -1,18 +1,21 @@
-# Imoh Effiong | Software Quality Assurance Portfolio
+#  QA Manual Testing Portfolio
 
-Welcome! This repository contains my hands-on Quality Assurance (QA) projects, including test plans, test cases, bug reports, API tests, and automated test scripts.
+Welcome to my QA Manual Testing portfolio repository! This project showcases end-to-end manual software testing methodologies, test case design, defect tracking, and execution metrics using **SauceDemo**.
 
-## 🛠️ Tools & Technologies
-- *Manual & Functional Testing:* Test Case Design, Defect Tracking, Boundary Value Analysis
-- *API Testing:* Postman, REST APIs
-- *Performance Testing:* JMeter
-- *Automation Testing:* Playwright (TypeScript/JavaScript)
-- *Defect Management:* GitHub Issues, Jira
+---
 
-## 📁 Repository Structure
-- /manual-testing/: Test plans, matrices, and test case sheets (.csv / .md)
-- /api-testing/: Postman collection JSON files & test reports
-- /automation-playwright/: Playwright end-to-end test scripts
+## 📁 Portfolio Artifacts
 
-## 📌 Projects
-1. *[Project 1 Name]* - Functional & Negative Testing (In Progress)
+- 📋 **Test Case Suite:** [`Manual_testing/sausedemo_testcase.csv`](./Manual_testing/sausedemo_testcase.csv)
+- 🐛 **Logged Issues & Defects:** [GitHub Issues Tracker](../../issues)
+- 📊 **Test Summary & Metrics:** [`Manual_testing/TEST_SUMMARY.md`](./Manual_testing/TEST_SUMMARY.md)
+
+---
+
+## 🛠 Skills & Tools Applied
+
+- **Test Design:** Positive, Negative, Boundary & Edge Case Scenarios
+- **Defect Management:** Severity/Priority Categorization, Bug Reporting, Reproduction Steps
+- **Documentation:** Markdown Reporting, Test Metrics Breakdown
+- **Tools:** GitHub Issues, Markdown, CSV Matrix Editing, Chrome DevTools
+-

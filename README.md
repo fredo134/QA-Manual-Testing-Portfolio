@@ -1,20 +1,30 @@
-#  QA Manual Testing Portfolio
+# Imoh Effiong | Software Quality Assurance Portfolio
 
-Welcome to my QA Manual Testing portfolio repository! This project showcases end-to-end manual software testing methodologies, test case design, defect tracking, and execution metrics using **SauceDemo**.
+Welcome! This repository contains my hands-on Quality Assurance (QA) projects, including test plans, test cases, bug reports, API tests, and automated test scripts.
 
 ---
 
-## 📁 Portfolio Artifacts
+## 🛠 Tools & Technologies
+- **Manual & Functional Testing:** Test Case Design, Defect Tracking, Boundary Value Analysis
+- **API Testing:** Postman, REST APIs, Newman
+- **Automation Testing:** Playwright (TypeScript/JavaScript)
+- **Defect Management:** GitHub Issues, Severity/Priority Categorization, Jira
 
-- 📋 **Test Case Suite:** [`Manual_testing/sausedemo_testcase.csv`](./Manual_testing/sausedemo_testcase.csv)
-- 🐛 **Logged Issues & Defects:** [GitHub Issues Tracker](../../issues)
-- 📊 **Test Summary & Metrics:** [`Manual_testing/TEST_SUMMARY.md`](./Manual_testing/TEST_SUMMARY.md)
+---
 
+## 📁 Repository Structure
 
-## 🛠 Skills & Tools Applied
+- [📂 `Manual_testing/`](./Manual_testing/) - Test plans, test cases (`.csv`), and execution summary reports
+- [📂 `API_testing/`](./API_testing/) - Postman collections (`.json`), environment configurations, and Newman test execution reports
+- [📂 `Automation-playwright/`](./Automation-playwright/) - Playwright end-to-end automated test scripts
 
-- **Test Design:** Positive, Negative, Boundary & Edge Case Scenarios
-- **Defect Management:** Severity/Priority Categorization, Bug Reporting, Reproduction Steps
-- **Documentation:** Markdown Reporting, Test Metrics Breakdown
-- **Tools:** GitHub Issues, Markdown, CSV Matrix Editing, Chrome DevTools
--
+---
+
+## 📌 Projects
+
+1. **[SauceDemo Manual Testing Project](./Manual_testing/)** - End-to-end functional, boundary, negative testing, and bug tracking.
+   - 📋 [Test Case Suite](./Manual_testing/sausedemo_testcase.csv)
+   - 📊 [Test Execution Summary & Metrics](./Manual_testing/TEST_SUMMARY.md)
+   - 🐛 [GitHub Defect Tracker](https://github.com/fredo134/QA-Manual-Testing-Portfolio/issues)
+
+2. **[ReqRes API Testing Suite](./API_testing/)** - Automated REST API testing with Postman and Newman CLI *(In Progress)*

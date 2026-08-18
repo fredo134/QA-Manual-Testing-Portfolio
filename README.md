@@ -30,7 +30,9 @@ Automated REST API test suite built for the **ReqRes API**, covering full CRUD o
 * 📊 **[Newman HTML Test Report](./API_testing/reports/index.html)**
 
 
-* 🐛 **[GitHub Defect Tracker](https://github.com/fredo134/QA-Manual-Testing-Portfolio/issues)**### 2. 📋 [SauceDemo Manual Testing Project](./Manual_testing/)
+* 🐛 **[GitHub Defect Tracker](https://github.com/fredo134/QA-Manual-Testing-Portfolio/issues)***
+*
+*   ### 2. 📋 [SauceDemo Manual Testing Project](./Manual_testing/)
 End-to-end functional, boundary, negative testing, and bug tracking for an e-commerce web application.
 
 * 📋 **[Test Case Suite](./Manual_testing/sausedemo_testcase.csv)**

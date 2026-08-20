@@ -22,7 +22,7 @@ This repository contains a performance and load testing suite built with **Apach
 - **Listeners Used:** View Results Tree, Summary Report, Aggregate Report
 - 
 
-[Load Test Results](/Summary_reportpng)
+[Load Test Results](./Summary_report.png/)
 ## 📊 JMeter Aggregate Performance Report
 
 | Endpoint | Samples | Average | Median | 90% Line | 95% Line | 99% Line | Error % | Throughput |

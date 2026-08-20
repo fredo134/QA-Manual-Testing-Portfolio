@@ -17,7 +17,7 @@ Welcome! This repository contains my hands-on Quality Assurance (QA) projects, f
 - [📂 `Manual_testing/`](./Manual_testing/) - Test plans, test cases (`.csv`), defect logs, and execution summary reports
 - [📂 `API_testing/`](./API_testing/) - Postman collections (`.json`), environment configurations, and Newman test execution reports
 - [📂 `Automation-playwright/`](./Automation-playwright/) - Playwright end-to-end automated test scripts
-- [📂 `Perfomance_testing_jmeter/`](.Performance_testing_jmeter/) - Playwright end-to-end automated test scripts
+- [📂 `Perfomance_testing_jmeter/`](./Performance_testing_jmeter/) - Playwright end-to-end automated test scripts
 
 ---
 

@@ -20,8 +20,16 @@ This repository contains a performance and load testing suite built with **Apach
 - **GET Response Time:** ~132 ms average latency
 - **POST Response Time:** ~375 ms average latency
 - **Listeners Used:** View Results Tree, Summary Report, Aggregate Report
+- 
 
 [Load Test Results](jmeter_summary_report.png)
+## 📊 JMeter Aggregate Performance Report
+
+| Endpoint | Samples | Average | Median | 90% Line | 95% Line | 99% Line | Error % | Throughput |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **01 - GET Fetch Users** | 80 | 129 ms | 126 ms | 137 ms | 158 ms | 266 ms | 0.00% | 7.9/sec |
+| **02 - POST Create User** | 80 | 375 ms | 363 ms | 398 ms | 442 ms | 535 ms | 0.00% | 7.8/sec |
+| **TOTAL** | **160** | **252 ms** | **134 ms** | **386 ms** | **415 ms** | **525 ms** | **0.00%** | **15.8/sec** |
 
 ## 🛠️ How to Run
 1. Clone this repository.

@@ -1,3 +1,4 @@
+
 # Imoh Effiong | Software Quality Assurance Portfolio
 
 Welcome! This repository contains my hands-on Quality Assurance (QA) projects, featuring end-to-end testing methodologies across **Manual Testing**, **API Testing**, **UI Test Automation**, and **Performance & Load Testing**.
@@ -52,7 +53,7 @@ API baseline performance and endpoint latency load testing using Apache JMeter.
 ---
 
 ### 4. 📈 [Restful-Booker Multi-Tier Load & SLA Testing](./Performance_testing_jmeter/Restful-Booker%20API%20Performance%20/)
-Multi-tier concurrent user scaling test targeting the **Restful-Booker Hotel Booking API** (`https://restful-booker.herokuapp.com/`). Validates authentication workflows, dynamic variable extraction, and transactional booking operations under 50, 100, and 250 concurrent virtual users in non-GUI CLI mode[cite: 1, 2].
+Multi-tier concurrent user scaling test targeting the **Restful-Booker Hotel Booking API** (`https://restful-booker.herokuapp.com/`). Validates authentication workflows, dynamic variable extraction, and transactional booking operations under 50, 100, and 250 concurrent virtual users in non-GUI CLI mode.
 
 * 📄 **[Restful-Booker Multi-Tier Plan (`testplan.jmx`)](./Performance_testing_jmeter/Restful-Booker%20API%20Performance%20/testplan.jmx)**
 * 📊 **[50 VUs HTML Report Bundle (`html_report_50.zip`)](./Performance_testing_jmeter/Restful-Booker%20API%20Performance%20/html_report_50.zip)**

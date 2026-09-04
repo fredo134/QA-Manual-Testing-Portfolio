@@ -18,7 +18,7 @@ Welcome! This repository contains my hands-on Quality Assurance (QA) projects, f
 - [📂 `Manual_testing/`](./Manual_testing/) - Test plans, test cases (`.csv`), defect logs, and execution summary reports
 - [📂 `API_testing/`](./API_testing/) - Postman collections (`.json`), environment configurations, and Newman test execution reports
 - [📂 `Automation-playwright/`](./Automation-playwright/) - Playwright end-to-end automated test scripts
-- [📂 `Performance_testing_jmeter/`](./Performance_testing_jmeter/) - JMeter test plans (`.jmx`), execution logs (`.jtl`), and interactive HTML performance dashboards
+- [📂 `Performance_testing_jmeter/`](./Performance_testing_jmeter/) - JMeter test plans (`.jmx`), aggregate/summary visual reports, execution logs (`.jtl`), and interactive HTML performance dashboards
 
 ---
 
@@ -42,10 +42,9 @@ Automated REST API test suite built for the **ReqRes API**, covering full CRUD o
 
 ---
 
-### 3. ⚡ [API Performance & SLA Stress Testing (Apache JMeter)](./Performance_testing_jmeter/)
-Multi-tier concurrent load testing evaluating API latency, throughput limits, and APDEX scores across 50, 100, and 250 Virtual Users (VU) in headless CLI mode.
+### 3. ⚡ [Performance Testing with JMeter](./Performance_testing_jmeter/)
+API performance, baseline latency, and multi-tier load tests evaluating throughput, APDEX scores, and SLA assertions using Apache JMeter.
 
-* 📄 **[JSONPlaceholder Baseline Plan (`.jmx`)](./Performance_testing_jmeter/performance_loadtest.jmx)**
-* 📄 **[Restful-Booker Multi-Tier Plan (`.jmx`)](./Performance_testing_jmeter/testplan.jmx)**
-* 📊 **[100 Virtual Users HTML Report Archive](./Performance_testing_jmeter/html_report_100.zip)**
-* 📝 **[Performance Test Strategy & Findings](./Performance_testing_jmeter/README.md)**
+* 🖼️ **[Aggregate Report (`Aggregate_report.png`)](./Performance_testing_jmeter/Aggregate_report.png)**
+* 🖼️ **[Summary Report (`Summary_report.png`)](./Performance_testing_jmeter/Summary_report.png)**
+* 📄 **[Baseline Load Test Script (`performance_loadtest.jmx`)](./Performance_testing_jmeter/performance_loadtest.jmx)**

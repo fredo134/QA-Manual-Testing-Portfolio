@@ -19,7 +19,8 @@ Welcome! This repository contains my hands-on Quality Assurance (QA) projects, f
 - [📂 `Manual_testing/`](./Manual_testing/) - Test plans, test cases (`.csv`), defect logs, and execution summary reports
 - [📂 `API_testing/`](./API_testing/) - Postman collections (`.json`), environment configurations, and Newman test execution reports
 - [📂 `Automation-playwright/`](./Automation-playwright/) - Playwright end-to-end automated test scripts
-- [📂 `Performance_testing_jmeter/`](./Performance_testing_jmeter/) - JMeter test plans (`.jmx`), visual aggregate/summary reports, execution logs (`.jtl`), and multi-tier interactive HTML performance dashboards
+- [📂 `Performance_testing_jmeter/`](./Performance_testing_jmeter/) - JMeter baseline test plans (`.jmx`), visual aggregate/summary reports
+- [📂 `Restful-Booker API Performance & SLA Load Testing/`](./Restful-Booker%20API%20Performance%20%26%20SLA%20Load%20Testing/) - Multi-tier performance logs (`.jtl`), test plans, and interactive HTML report bundles
 
 ---
 
@@ -52,11 +53,11 @@ API baseline performance and endpoint latency load testing using Apache JMeter.
 
 ---
 
-### 4. 📈 [Restful-Booker Multi-Tier Load & SLA Testing](./Performance_testing_jmeter/Restful-Booker%20API%20Performance%20/)
+### 4. 📈 [Restful-Booker Multi-Tier Load & SLA Testing](./Restful-Booker%20API%20Performance%20%26%20SLA%20Load%20Testing/)
 Multi-tier concurrent user scaling test targeting the **Restful-Booker Hotel Booking API** (`https://restful-booker.herokuapp.com/`). Validates authentication workflows, dynamic variable extraction, and transactional booking operations under 50, 100, and 250 concurrent virtual users in non-GUI CLI mode.
 
-* 📄 **[Restful-Booker Multi-Tier Plan (`testplan.jmx`)](./Performance_testing_jmeter/Restful-Booker%20API%20Performance%20/testplan.jmx)**
-* 📊 **[50 VUs HTML Report Bundle (`html_report_50.zip`)](./Performance_testing_jmeter/Restful-Booker%20API%20Performance%20/html_report_50.zip)**
-* 📊 **[100 VUs HTML Report Bundle (`html_report_100.zip`)](./Performance_testing_jmeter/Restful-Booker%20API%20Performance%20/html_report_100.zip)**
-* 📊 **[250 VUs HTML Report Bundle (`html_report_250.zip`)](./Performance_testing_jmeter/Restful-Booker%20API%20Performance%20/html_report_250.zip)**
-* 📝 **[Performance Strategy & Findings Documentation (`README.md`)](./Performance_testing_jmeter/Restful-Booker%20API%20Performance%20/README.md)**
+* 📄 **[Restful-Booker Multi-Tier Plan (`testplan.jmx`)](./Restful-Booker%20API%20Performance%20%26%20SLA%20Load%20Testing/testplan.jmx)**
+* 📊 **[50 VUs HTML Report Bundle (`html_report_50.zip`)](./Restful-Booker%20API%20Performance%20%26%20SLA%20Load%20Testing/html_report_50.zip)**
+* 📊 **[100 VUs HTML Report Bundle (`html_report_100.zip`)](./Restful-Booker%20API%20Performance%20%26%20SLA%20Load%20Testing/html_report_100.zip)**
+* 📊 **[250 VUs HTML Report Bundle (`html_report_250.zip`)](./Restful-Booker%20API%20Performance%20%26%20SLA%20Load%20Testing/html_report_250.zip)**
+* 📝 **[Performance Strategy & Findings Documentation (`README.md`)](./Restful-Booker%20API%20Performance%20%26%20SLA%20Load%20Testing/README.md)**

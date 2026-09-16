@@ -61,3 +61,12 @@ Multi-tier concurrent user scaling test targeting the **Restful-Booker Hotel Boo
 * 📊 **[100 VUs HTML Report Bundle (`html_report_100.zip`)](./Restful-Booker%20API%20Performance%20%26%20SLA%20Load%20Testing/html_report_100.zip)**
 * 📊 **[250 VUs HTML Report Bundle (`html_report_250.zip`)](./Restful-Booker%20API%20Performance%20%26%20SLA%20Load%20Testing/html_report_250.zip)**
 * 📝 **[Performance Strategy & Findings Documentation (`README.md`)](./Restful-Booker%20API%20Performance%20%26%20SLA%20Load%20Testing/README.md)**
+
+
+### 4. 🏢 [OrangeHRM Enterprise Manual Testing & RTM Matrix](./manual-testing-orangehrm/)
+Enterprise-level functional test planning, complex workflow coverage, Boundary Value Analysis (BVA), and Requirements Traceability Matrix (RTM).
+
+* 📄 **[Master Test Plan](./manual-testing-orangehrm/TEST_PLAN.md)**
+* 📋 **[Test Case Suite (.csv)](./manual-testing-orangehrm/test_cases.csv)**
+* 🗺️ **[Requirements Traceability Matrix (RTM)](./manual-testing-orangehrm/RTM.md)**
+* 🐛 **[GitHub Defect Tracker (Logged Bugs)](https://github.com/fredo134/QA-Manual-Testing-Portfolio/issues)**

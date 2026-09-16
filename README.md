@@ -67,6 +67,6 @@ Multi-tier concurrent user scaling test targeting the **Restful-Booker Hotel Boo
 Enterprise-level functional test planning, complex workflow coverage, Boundary Value Analysis (BVA), and Requirements Traceability Matrix (RTM).
 
 * 📄 **[Master Test Plan](./manual-testing-orangehrm/Test_plan.md)**
-* 📋 **[Test Case Suite (.csv)](./manual-testing-orangehrm/test_casehrm.csv)**
+* 📋 **[Test Case Suite (.csv)](./manual-testing-orangehrm/test_caseHrm1.csv)**
 * 🗺️ **[Requirements Traceability Matrix (RTM)](./manual-testing-orangehrm/RTM.md)**
 * 🐛 **[GitHub Defect Tracker (Logged Bugs)](https://github.com/fredo134/QA-Manual-Testing-Portfolio/issues)**
